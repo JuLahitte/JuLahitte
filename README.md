@@ -7,7 +7,7 @@
 Linkedin:
 https://www.linkedin.com/in/julian-ezequiel-lahittette/
 
-![Linkedin](https://img.shields.io/badge/Linkedin>?style=flat&logo=linkedin-logoColor=blue=101010)</br>
+![Linkedin](https://img.shields.io/badge/LinkedIn-julian-ezequiel-lahittette>?style=flat&logo=linkedin&logoColor=white&labelColor=101010)</br>
 
 <!--
 **JuLahitte/JuLahitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
