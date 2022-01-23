@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I’m currently working on Accounting
-### I’m currently learning about Data Analitycs and Data Science
+#### I’m currently working on Accounting
+#### I’m currently learning about Data Analitycs and Data Science
 
 <!--
 **JuLahitte/JuLahitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
