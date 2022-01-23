@@ -8,6 +8,11 @@ In 2019, 2020 and 2021| I did different courses, for example [Data Analitycs](ht
 
 Now| I have started the [Data Science](https://www.coderhouse.com/online/data-science) course in CoderHouse. 
 
+### Skills:
+![MySQL](https://img.shields.io/badge/MySQL-007785?style=flat&logo=mysql&logoColor=white&labelColor=101010)</br>]
+![Python](https://img.shields.io/badge/Python-1045EB?style=flat&logo=python&logoColor=white&labelColor=101010)</br>]
+![PowerBI](https://img.shields.io/badge/PowerBI-EBE110?style=flat&logo=powerbi&logoColor=white&labelColor=101010)</br>]
+
 ### Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Ezequiel_Lahittette-101010?style=flat&logo=linkedin&logoColor=white&labelColor=007785)</br>](https://www.linkedin.com/in/julian-ezequiel-lahittette/)
