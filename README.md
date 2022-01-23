@@ -4,7 +4,7 @@
 
 ### Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Ezequiel_Lahittette-007785>?style=flat&logo=linkedin&logoColor=white&labelColor=007785)</br>](https://www.linkedin.com/in/julian-ezequiel-lahittette/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Ezequiel_Lahittette-101010>?style=flat&logo=linkedin&logoColor=white&labelColor=007785)</br>](https://www.linkedin.com/in/julian-ezequiel-lahittette/)
 
 
 <!--
