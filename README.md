@@ -9,9 +9,9 @@ In 2019, 2020 and 2021| I did different courses, for example [Data Analitycs](ht
 Now| I have started the [Data Science](https://www.coderhouse.com/online/data-science) course in CoderHouse. 
 
 ### Skills:
-![MySQL](https://img.shields.io/badge/MySQL-007785?style=flat&logo=mysql&logoColor=white&labelColor=101010)</br>]
-![Python](https://img.shields.io/badge/Python-1045EB?style=flat&logo=python&logoColor=white&labelColor=101010)</br>]
-![PowerBI](https://img.shields.io/badge/PowerBI-EBE110?style=flat&logo=powerbi&logoColor=white&labelColor=101010)</br>]
+![SQLServer](https://img.shields.io/badge/SQLServer-1DEB10?style=flat&logo=sqlserver&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Python-1045EB?style=flat&logo=python&logoColor=white&labelColor=101010)</br>
+![PowerBI](https://img.shields.io/badge/PowerBI-EBE110?style=flat&logo=powerbi&logoColor=white&labelColor=101010)</br>
 
 ### Find me at:
 
