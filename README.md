@@ -1,7 +1,12 @@
 ### Hi there, my name is Julián E. Lahittette 👋
 
-#### I’m currently working on Accounting
 #### I’m currently learning about Data Analitycs and Data Science
+
+### Find me at:
+
+Linkedin: https://www.linkedin.com/in/julian-ezequiel-lahittette/
+
+
 
 <!--
 **JuLahitte/JuLahitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
