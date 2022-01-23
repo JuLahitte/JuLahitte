@@ -5,7 +5,7 @@
 ### Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian_Ezequiel_Lahittette-101010?style=flat&logo=linkedin&logoColor=white&labelColor=007785)</br>](https://www.linkedin.com/in/julian-ezequiel-lahittette/)
-[![Github](https://julahitte.github.io/-101010?style=flat&logo=github&logoColor=white&labelColor=C70039)</br>](https://julahitte.github.io/)
+[![Github](https://img.shields.io/badge/Github-JuLahitte-101010?style=flat&logo=github&logoColor=white&labelColor=C70039)</br>](https://julahitte.github.io/)
 
 
 
