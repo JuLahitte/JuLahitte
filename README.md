@@ -19,9 +19,8 @@ Now| I have started the [Data Science](https://www.coderhouse.com/online/data-sc
 [![Github](https://img.shields.io/badge/Github-JuLahitte-101010?style=flat&logo=github&logoColor=white&labelColor=B70E03)</br>](https://julahitte.github.io/)
 
 ### Contact me:
-[![Gmail](https://img.shields.io/badge/Gmail- My Personal Email-101010?style=flat&logo=gmail&logoColor=white&labelColor=FB1203)</br>](https://lahittette.julian@gmail.com/conctact)
 
-[![Gmail](https://img.shields.io/badge/Gmail-lahittette.julian@gmail.com-101010?style=flat&logo=gmail&logoColor=white&labelColor=FB1203)</br>](https://lahittette.julian@gmail.com/conctact)
+[![Gmail](https://img.shields.io/badge/Gmail-lahittette.julian@gmail.com-101010?style=flat&logo=gmail&logoColor=white&labelColor=FB1203)</br>](https://lahittette.julian@gmail.com/contact)
 
 <!--
 **JuLahitte/JuLahitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
