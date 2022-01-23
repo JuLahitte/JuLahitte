@@ -1,4 +1,4 @@
-### Hi there, my name is Julián E. Lahittette 👋
+## Hi there, my name is Julián E. Lahittette 👋
 
 #### I’m currently learning about Data Analitycs and Data Science
 
