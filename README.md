@@ -4,10 +4,7 @@
 
 ### Find me at:
 
-Linkedin:
-https://www.linkedin.com/in/julian-ezequiel-lahittette/
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-julian-ezequiel-lahittette>?style=flat&logo=linkedin&logoColor=white&labelColor=101010)</br>](https://www.linkedin.com/in/julian-ezequiel-lahittette/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-julian-ezequiel-lahittette>?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)</br>](https://www.linkedin.com/in/julian-ezequiel-lahittette/)
 
 <!--
 **JuLahitte/JuLahitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
