@@ -4,10 +4,10 @@
 
 ### Find me at:
 
-(https://img.shields.io/static/v1?label=<LABEL>&message=<Linkedin:>&color=<blue>)
+Linkedin:
 https://www.linkedin.com/in/julian-ezequiel-lahittette/
 
-
+![Linkedin](https://img.shields.io/badge/Linkedin>?style=flat&logo=linkedin-logoColor=blue=101010)</br>
 
 <!--
 **JuLahitte/JuLahitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
