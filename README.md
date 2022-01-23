@@ -4,7 +4,7 @@
 
 I'm a professional Accountant for more than seven years and a passionate about technology. So in the last few years, I’m currently learning about Data Analitycs and Data Science.
 
-In 2019, 2020 and 2021| I did different courses, for example [!Data Analitycs](https://www.coderhouse.com/online/data-analytics) and Introduction to Phyton in IEEE-ITBA Student Chapter.
+In 2019, 2020 and 2021| I did different courses, for example [Data Analitycs](https://www.coderhouse.com/online/data-analytics) and Introduction to Phyton in IEEE-ITBA Student Chapter.
 
 ### Find me at:
 
