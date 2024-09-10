@@ -1,6 +1,6 @@
 ## Hi there, my name is Julián E. Lahittette 👋
 
-#### Adm & Accounting Manager
+#### Controller
 
 I'm a professional Accountant for more than seven years and a passionate about technology. So in the last few years, I’m currently learning about Data Analitycs and Data Science.
 
